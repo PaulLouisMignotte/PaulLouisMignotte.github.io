@@ -1,0 +1,19 @@
+section h1
+{
+	text-align: center;
+	background-color: #6495ed;
+	border-spacing: 10px;
+}
+[id=presentation] 
+{
+	border-style: dotted;
+	border-spacing: 10px;
+}
+[id=news] 
+{
+	display: flex;
+	text-align: justify;
+	margin-right: 10px;
+}
+
+
